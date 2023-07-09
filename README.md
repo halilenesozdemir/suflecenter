@@ -38,3 +38,5 @@ npm run dev
 ```
 
 ## Screenshots
+![Sufle-Desktop](./public/sufle-desktop.png)
+![Sufle-Mobile](./public/sufle-mobil.png)
